@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://ipa.down.dev.jiaodao.com/dev2.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fy1.ifengimg.com%2Fa%2F2014_48%2Fa124f6eac178c86.jpg&amp;refer=http%3A%2F%2Fy1.ifengimg.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=jpeg?sec=1627465584&amp;t=8cb05a43c076e2684a4a26b643d9c671</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fy1.ifengimg.com%2Fa%2F2014_48%2Fa124f6eac178c86.jpg&amp;refer=http%3A%2F%2Fy1.ifengimg.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=jpeg?sec=1627465584&amp;t=8cb05a43c076e2684a4a26b643d9c671</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.szsxy.cn</string>
+				<key>bundle-version</key>
+				<string>1.0.3</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
+				<key>title</key>
+				<string>TemplateformSwift</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
